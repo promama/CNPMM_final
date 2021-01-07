@@ -1,0 +1,17 @@
+.login-form {
+    .extra {
+        display: flex;
+        .item {
+            margin-right: 10px;
+        }
+    }
+    .err-wrapper {
+        display: flex;
+        align-items: center;
+        margin-right: auto;
+        color: red;
+        .err-msg {
+            margin-left: 5px;
+        }
+    }
+}

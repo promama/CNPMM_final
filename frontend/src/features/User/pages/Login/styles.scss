@@ -1,0 +1,21 @@
+.login {
+    .paper {
+        margin-top: 60px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .avatar {
+        background-color: purple;
+    }
+    .form {
+        width: 100%;
+        margin-top: 5px;
+    }
+    .submit {
+        margin: 15px 0 10px 0px;
+    }
+    .centerStyle {
+        align-items: center;
+    }
+}

@@ -1,0 +1,21 @@
+.register-form {
+    .form-control {
+        padding: 0 8px;
+    }
+    .wrapper-submit {
+        margin-top: 10px;
+    }
+    .err-wrapper {
+        display: flex;
+        align-items: center;
+        color: red;
+        .err-msg {
+            margin-left: 5px;
+        }
+    }
+    .forgot {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+}

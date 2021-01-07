@@ -1,0 +1,18 @@
+.AccountProfile {
+    .details {
+        display: "flex";
+    }
+    .avatar {
+        margin-left: auto;
+        height: 110;
+        width: 100;
+        flex-shrink: 0;
+        flex-grow: 0;
+    }
+    .progress {
+        margin-top: 16px;
+    }
+    .uploadButton {
+        margin-right: 16px;
+    }
+}
